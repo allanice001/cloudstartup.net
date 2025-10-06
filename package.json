@@ -8,7 +8,7 @@
   "author": "ofnullable <ofnullable@gmail.com>",
   "license": "MIT",
   "engines": {
-    "node": ">=10.22.1",
+    "node": ">=10.23.3",
     "npm": ">=6"
   },
   "bugs": {
