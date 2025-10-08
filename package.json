@@ -9,7 +9,7 @@
   "license": "MIT",
   "engines": {
     "node": ">=10.24.1",
-    "npm": ">=6.12.1"
+    "npm": ">=6.13.7"
   },
   "bugs": {
     "url": "http://github.com/ofnullable/react-spa-template/issues",
