@@ -8,8 +8,8 @@
   "author": "ofnullable <ofnullable@gmail.com>",
   "license": "MIT",
   "engines": {
-    "node": ">=10.24.1",
-    "npm": ">=6.14.18"
+    "node": ">=12.22.12",
+    "npm": ">=12.0.2"
   },
   "bugs": {
     "url": "http://github.com/ofnullable/react-spa-template/issues",
