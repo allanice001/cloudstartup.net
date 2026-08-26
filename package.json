@@ -9,7 +9,7 @@
   "license": "MIT",
   "engines": {
     "node": ">=10.24.1",
-    "npm": ">=6.14.18"
+    "npm": ">=11.19.0"
   },
   "bugs": {
     "url": "http://github.com/ofnullable/react-spa-template/issues",
@@ -58,7 +58,7 @@
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-import": "^14.1.0",
     "postcss-loader": "^6.2.1",
-    "postcss-preset-env": "^7.5.0",
+    "postcss-preset-env": "^11.0.0",
     "prettier": "^2.6.0",
     "reset-css": "^5.0.1",
     "sass-loader": "^12.6.0",
